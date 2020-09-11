@@ -20,8 +20,4 @@ There are dataset is publicly availble and you can download from github. These d
 
 Even though we can work on our own dataset by taking some images of helmet and by using keras we can do data augmentations. You can also found similar work done by other programmers.
 
-'
-
-python3 setup.py build_ext --inplace
-
-'
+` python3 setup.py build_ext --inplace- `
