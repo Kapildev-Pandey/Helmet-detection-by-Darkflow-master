@@ -16,8 +16,25 @@ Requirements:
 
 **Note**: Your downloaded files location is important and note down it's path.
 
-There are dataset is publicly availble and you can download from github. These dataset is large in size and you need more computation power with good intel prcocessor and high GB RAM. So you can use some pretrained model namely 'darkflow master'.
 
-Even though we can work on our own dataset by taking some images of helmet and by using keras we can do data augmentations. You can also found similar work done by other programmers.
+Once you download there is setup file in darkflow master run it by below command:
 
 ` python3 setup.py build_ext --inplace- `
+
+
+
+There are dataset is publicly availble and you can download from github. These dataset is large in size and you need more computation power with good intel prcocessor and high GB RAM. So you can use some pretrained model namely 'darkflow master'.
+
+Although we can work on our own dataset by taking some images of helmet and by using keras we can do data augmentations. You can also found similar work done by other programmers.
+
+**Here is some more useful links:**
+
+1.Github
+
+2.Youtube
+
+**Note:** You have to just type 'helmet detection by CNN'.
+
+
+
+
